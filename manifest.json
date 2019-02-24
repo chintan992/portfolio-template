@@ -3,13 +3,6 @@
   "short_name": "Portfolio",
   "display": "minimal-ui",
   "start_url": "/",
-  "theme_color": "#673ab6",
+  "theme_color": "#9C27B0",
   "background_color": "#111111",
-  "icons": [
-    {
-      "src": "img/man1.png",
-      "sizes": "590x774",
-      "type": "image/png"
-    }
-  ]
 }
